@@ -1,1 +1,1 @@
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of mypic](https://avatars0.githubusercontent.com/u/61471359?s=400&v=4)
